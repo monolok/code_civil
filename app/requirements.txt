@@ -1,5 +1,6 @@
 streamlit
 pinecone-client
 langchain
-os
 requests
+python-dotenv
+sentence-transformers
